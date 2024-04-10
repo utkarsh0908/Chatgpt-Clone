@@ -1,4 +1,4 @@
-# AutoApp
+# ChatGPT Clone
 
 This project aims to create a ChatGPT clone using modern web technologies such as Next.js for the frontend, Tailwind CSS for styling, and Express.js for the backend. The ChatGPT clone will simulate a conversational AI chatbot capable of engaging users in meaningful conversations on various topics.
 
